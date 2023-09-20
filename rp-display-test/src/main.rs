@@ -137,6 +137,7 @@ fn main() -> ! {
     epd.display_frame(&mut spi, &mut delay).unwrap();
 
     // Draw some squares
+
     let small_buffer = [Color::Black.get_byte_value(); 3200]; //160x160
     epd.update_partial_frame(&mut spi, &mut delay, &small_buffer, 20, 20, 160, 160)
         .unwrap();
