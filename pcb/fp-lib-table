@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MCU_RPI")(type "KiCad")(uri "${KIPRJMOD}/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "USB-C")(type "KiCad")(uri "${KIPRJMOD}/USB4085-GF-A_REVB")(options "")(descr ""))
+)
