@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "MCU_RPI")(type "KiCad")(uri "/Users/abenstirling/Documents/git/MACropad/pcb/RP_Silicon_KiCad/KiCadLibraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
-  (lib (name "USBC")(type "KiCad")(uri "${KIPRJMOD}/USB4085-GF-A_REVB/USB4085-GF-A_REVB.kicad_sym")(options "")(descr ""))
-)
